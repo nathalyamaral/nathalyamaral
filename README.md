@@ -8,7 +8,7 @@ Backend Software Engineer
 
 * 🌍  I'm in Campo Grande/MS - Brazil
 * 📫  You can contact me at [nathalyamaral07@gmail.com](mailto:nathalyamaral07@gmail.com)
-* 💻  I'm currently working on [Escale](https://escale.com.br)
+* 💻  I'm currently working on [Sympla](https://blog.sympla.com.br)
 
 In my free time I like to watch series/movies, listen music, cook, go to the park and play games (bowling, pool, board games). 🏞️
 
