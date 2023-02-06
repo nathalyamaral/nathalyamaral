@@ -19,12 +19,15 @@ src="https://img.shields.io/github/followers/nathalyamaral?logo=github&style=for
 
 <p align="left">
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="36" height="36" alt="PHP" /></a>
+  <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" width="36" height="36" alt="Symfony" /></a>
 <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://phalcon.io/en-us" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/p/64/phalcon.svg" width="36" height="36" alt="Phalcon" /></a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331370/docker.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://circleci.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Circleci-icon-logo.svg" width="36" height="36" alt="CircleCI" /></a>
+<a href="https://docs.aws.amazon.com/sns/" target="_blank" rel="noreferrer"><img src="https://symbols.getvecta.com/stencil_17/3_amazon-sns.64c1e330e6.svg" width="36" height="36" alt="AWS SNS" /></a>
+  <a href="https://docs.aws.amazon.com/sqs/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/a/56/aws-sqs.svg" width="36" height="36" alt="AWS SQS" /></a>
 <a href="https://swagger.io" target="_blank" rel="noreferrer"><img src="https://spng.subpng.com/20190729/wgx/kisspng-smiley-green-text-messaging-meter-professional-odoo-rest-api-odoo-apps-5d3f7a46db7da5.509542591564441158899.jpg" width="36" height="36" alt="Swagger" /></a>
 <a href="https://www.terraform.io" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" width="36" height="36" alt="Terraform" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
